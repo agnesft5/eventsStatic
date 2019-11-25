@@ -1,0 +1,14 @@
+{
+  "name": "staticevents",
+  "version": "1.0.0",
+  "description": "Servidor estatico eventsFront",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agnesft5@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
